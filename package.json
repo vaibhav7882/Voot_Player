@@ -1,0 +1,28 @@
+{
+    "name": "VOOT Online Player",
+    "version": "2.1.0",
+    "description": "The Online VOOT Player and Downloader with Select and Free Content With All Facality and Customizable Player ",
+    "main": "index.js",
+    "root": "public",
+    "error_page": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/avipatilpro/voot_player.git"
+    },
+    "keywords": [
+        "voot",
+        "streamer",
+        "voot player",
+        "voot select",
+        "avi patil",
+        "hls player",
+        "voot online player",
+        "voot downloader"
+    ],
+    "author": "Avishkar Patil",
+    "license": "Custom Lisence",
+    "bugs": {
+        "url": "https://github.com/avipatilpro/voot_player/issues"
+    },
+    "homepage": "https://github.com/avipatilpro/voot_player"
+}
