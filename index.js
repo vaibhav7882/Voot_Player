@@ -41,11 +41,11 @@ body{ background-color:#202020;}
 </head>
 <body>
 
-  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://vt.movhdapp.ml">VOOT HLS Streamer </a></h1>
+  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://voot.movhdapp.ml">VOOT HLS Streamer </a></h1>
   
 <br><br><h3 style="text-align: center; color: #FFB200; font-family: 'Balsamiq Sans', cursive; font-size: 17px;">👇 Enter Your VOOT URL or VIDEO ID Below 👇 <br>And Click On STREAM</h3><br><br><br>
 
-  <div><form method="get"  action="https://vt.movhdapp.ml" _lpchecked="1">
+  <div><form method="get"  action="https://voot.movhdapp.ml" _lpchecked="1">
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter VOOT URL or VIDEO ID" autocomplete="off">
@@ -115,7 +115,7 @@ body{ background-color:#202020;}
 
 </head>
 <body>
-  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://vt.movhdapp.ml">VOOT HLS Streamer </a></h1>
+  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://voot.movhdapp.ml">VOOT HLS Streamer </a></h1>
   
 <br><br>
 <p style="color:#0EEEBB; text-align:center;font-family: 'Corben', cursive; font-size: 19px;">⚠️ ERROR NOT FOUND ⚠️</p>
@@ -123,7 +123,7 @@ body{ background-color:#202020;}
 
 <br><br><br>
 
-  <div><form method="get"  action="https://vt.movhdapp.ml" _lpchecked="1">
+  <div><form method="get"  action="https://voot.movhdapp.ml" _lpchecked="1">
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter VOOT URL or VIDEO ID" autocomplete="off">
