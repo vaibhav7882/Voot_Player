@@ -26,4 +26,4 @@
 
 <h2> Where To Host : </h2>
 
-<h5 align="center"> Copy The index.js code and Host on CloudFlare Workers , Vercel , repl.it or heroku as your wish <br> or Your Hosting Otherwise Use https://voot.movhdapp.ml/
+<h5 align="center"> Copy The index.js code and Host on CloudFlare Workers  or Use https://voot.movhdapp.ml/
